@@ -59,7 +59,7 @@
                 <option value="K">Kalimantan</option>
                 <option value="J">Jawa</option>    
                 <option value="SUM">Sumatra</option>
-                <option value="SU">Sulawesi</option>
+                <option value="SUL">Sulawesi</option>
                 <option value="P">Papua</option>
                 </select>
                 </div>
