@@ -18,10 +18,12 @@ password: user
 
 c. Halaman Shop
 Pada halaman “Shop” terdapat beberapa barang yang dapat dilihat oleh pengguna. Untuk mencari barang yang diinginkan di Bigetron Shop, pengguna dapat memanfaatkan fitur pencarian dengan mengetikkan nama barang pada kolom pencarian. Namun, untuk dapat melakukan pembelian, pengguna harus melakukan proses sign in sebagai user terlebih dahulu. Jika pengguna mengklik barang yang ingin dibeli sebelum melakukan sign in, pengguna akan diarahkan ke halaman “Sign In”.
+
 ![shop](https://github.com/b2-kelompok-6/project_akhir_web/assets/104117526/d3345e69-93e9-481a-b872-0db197163772)
 
 d. Login Admin
 Pada halaman login, terdapat opsi untuk login sebagai admin dengan memasukkan username “admin” dan password “admin”. Jika proses login berhasil, pengguna dapat melanjutkan ke halaman berikutnya. 
+
 ![login admin](https://github.com/b2-kelompok-6/project_akhir_web/assets/104117526/2531ac19-94a2-4987-8d25-e50006a2035f)
 
 e. Halaman Admin
