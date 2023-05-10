@@ -24,6 +24,7 @@ password: staff
 - User
 username: user
 password: user
+
 ![login](https://github.com/b2-kelompok-6/project_akhir_web/assets/104117526/df8e1ea8-215f-4602-ada8-2554df3d38f6)
 
 3. Halaman Shop
