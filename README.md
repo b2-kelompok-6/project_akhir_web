@@ -88,7 +88,8 @@ Pada halaman about ini terdapat vidio youtube dari akun resmi bigetron, yang dim
 
 p. Profile
 Pada halaman profil disini hanya menampilan anggota dari kelompok B2 6 yang dimana beranggotakan 3 orang.
-![about](https://github.com/b2-kelompok-6/project_akhir_web/assets/104117526/13877b21-cf7e-4c8a-893d-baa471ad0924)
+![profil](https://github.com/b2-kelompok-6/project_akhir_web/assets/104117526/637cbec6-e801-40e1-88b8-16f96529d7d4)
+
 
 
 
