@@ -1,7 +1,7 @@
 # project_akhir_web!
 a. Tampilan Awal
 Pada tampilan awal website, terdapat dua opsi yaitu “Shop” dan “Sign In”. Jika memilih “Sign In”, maka akan diarahkan ke halaman “Sign In” yang memungkinkan pengguna untuk masuk ke dalam website dengan tiga pilihan role, yaitu admin, staff, dan user. Sementara itu, jika memilih “Shop”, maka pengguna akan masuk ke halaman “Shop”.
-[utama](https://github.com/b2-kelompok-6/project_akhir_web/assets/104117526/3b6863a6-8e79-4441-9a8d-805d3381ab41)
+![utama](https://github.com/b2-kelompok-6/project_akhir_web/assets/104117526/f2a27bfb-279c-412b-a20c-ae2beb2cb1df)
 
 b. Halaman Sign In
 Pada halaman “Sign In” terdapat 3 role untuk melakukan proses login dan masing-masing role harus mengisi username dan password dengan benar agar dapat lanjut ke halaman berikutnya. Berikut username dan password yang tersedia:
