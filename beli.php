@@ -68,9 +68,9 @@ $barang = mysqli_fetch_assoc($result_barang);
            <a href="about.php"><span>About</span></a>     
            <a href="profil.php"><span>Profile</span></a>
            <a href="sign-in.php"><span>Sign In</span></a>
-           <a href="shop.php"><img border="0" src="shopping-cart.png" width="30px" style="margin: 0px 5px -8px 840px; color:white;">Shop</a>
+           <a href="shop.php"><img border="0" src="shopping-cart.png" width="30px" style="margin: 0px 5px -8px 1100px; color:white;">Shop</a>
     </nav>
-    <h1 style="margin-bottom: 0px; margin-top: 60px; margin-left: 670px; " ><span style="color: red">Bigetron </span>Shop</h1><br>
+    <h1 style="margin-bottom: 0px; margin-top: 60px; margin-left: 750px; " ><span style="color: red">Bigetron </span>Shop</h1><br>
     <div class="container">
     <form action="" method="POST">
       <div class="form-group">
@@ -119,9 +119,9 @@ $barang = mysqli_fetch_assoc($result_barang);
     <div>
     <a href="logout.php" style="margin-right: -25px; background-color: #e50000; color: #fff; border: none; padding: 15px 20px; border-radius: 10px; font-size: 16px; cursor: pointer; transition: 0.5s; text-decoration: none;">Logout</a>
     </div>
-    <!-- <footer>
-        <p>2023 Fadillah Jaga Pratama</p>
-    </footer> -->
+    <footer>
+      <p style="margin-left: -1450px;">2023 Fadillah Jaga Pratama</p>
+    </footer>
 </body>
 </html>
 <?php

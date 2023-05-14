@@ -52,9 +52,9 @@ $result = mysqli_query($conn, $sql);
            <a href="about.php"><span>About</span></a>      
            <a href="profil.php"><span>Profile</span></a>
            <a href="sign-in.php"><span style="color: red;">Sign In</span></a>
-           <a href="shop.php"><img border="0" src="shopping-cart.png" width="30px" style="margin: 0px 5px -8px 840px; color:white;">Shop</a>
+           <a href="shop.php"><img border="0" src="shopping-cart.png" width="30px" style="margin: 0px 5px -8px 1100px; color:white;">Shop</a>
     </nav>
-    <h1 style="margin-bottom: 0px; margin-top: 70px; margin-left: 645px; " ><span style="color: red">Tambah </span>Barang</h1><br>
+    <h1 style="margin-bottom: 0px; margin-top: 70px; margin-left: 727px; " ><span style="color: red">Tambah </span>Barang</h1><br>
     <form method="POST" action="">
     <label>Nama Barang</label>
     <br>
@@ -81,9 +81,9 @@ $result = mysqli_query($conn, $sql);
     <br>
     <button type="submit" name="submit" style="margin-top: -10px; margin-bottom: 25px;">Tambah</button>
     </form>
-	<a href="admin.php" style="margin-left: 645px; background-color: #e50000; color: #fff; border: none; padding: 15px 20px; border-radius: 10px; font-size: 16px; cursor: pointer; transition: 0.5s; text-decoration: none;">Kembali ke halaman admin</a>
-    <!-- <footer>
+	<a href="admin.php" style="margin-left: 725px; background-color: #e50000; color: #fff; border: none; padding: 15px 20px; border-radius: 10px; font-size: 16px; cursor: pointer; transition: 0.5s; text-decoration: none;">Kembali ke halaman admin</a>
+    <footer>
         <p>2023 Kelompok 6</p>
-    </footer> -->
+    </footer>
 </body>
 </html>

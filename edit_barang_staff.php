@@ -63,9 +63,9 @@ if (isset($_POST['update'])) {
            <a href="about.php"><span>About</span></a>    
            <a href="profil.php"><span>Profile</span></a>
            <a href="sign-in.php"><span style="color: red;">Sign In</span></a>
-           <a href="shop.php"><img border="0" src="shopping-cart.png" width="30px" style="margin: 0px 5px -8px 840px; color:white;">Shop</a>
+           <a href="shop.php"><img border="0" src="shopping-cart.png" width="30px" style="margin: 0px 5px -8px 1100px; color:white;">Shop</a>
     </nav>
-    <h1 style="margin-bottom: -80px; margin-top: 70px; margin-left: 710px;"><span style="color: red; margin-left: -40px;">Edit </span>Barang</h1><br>
+    <h1 style="margin-bottom: -80px; margin-top: 70px; margin-left: 795px;"><span style="color: red; margin-left: -40px;">Edit </span>Barang</h1><br>
     <form method="POST" action="" style="margin-top: 90px;">
         <input type="hidden" name="id_barang" value="<?php echo $data['id_barang']; ?>">
         <label for="nama_barang" style="margin-left: -65px;">Nama Barang:</label>
@@ -99,7 +99,7 @@ if (isset($_POST['update'])) {
         </div>
         <button type="submit" name="update" style="margin-top: 10px; margin-bottom: 25px;">Update</button>
     </form>
-    <a href="staff.php" style="margin-left: 645px; background-color: #e50000; color: #fff; border: none; padding: 15px 20px; border-radius: 10px; font-size: 16px; cursor: pointer; transition: 0.5s; text-decoration: none;">Kembali ke halaman staff</a>
+    <a href="staff.php" style="margin-left: 725px; background-color: #e50000; color: #fff; border: none; padding: 15px 20px; border-radius: 10px; font-size: 16px; cursor: pointer; transition: 0.5s; text-decoration: none;">Kembali ke halaman staff</a>
     <footer>
         <p>2023 Kelompok 6</p>
     </footer>

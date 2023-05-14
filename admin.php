@@ -52,9 +52,9 @@ $result_kategori = mysqli_query($conn, $sql_kategori);
            <a href="about.php"><span>About</span></a>     
            <a href="profil.php"><span>Profile</span></a>
            <a href="sign-in.php"><span style="color: red;">Sign In</span></a>
-           <a href="shop.php"><img border="0" src="shopping-cart.png" width="30px" style="margin: 0px 5px -8px 840px; color:white;">Shop</a>
+           <a href="shop.php"><img border="0" src="shopping-cart.png" width="30px" style="margin: 0px 5px -8px 1100px; color:white;">Shop</a>
     </nav>
-    <h1 style="margin-bottom: 0px; margin-top: 70px; margin-left: 660px; "><span style="color: red;">Bigetron </span>Shop</h1><br>
+    <h1 style="margin-bottom: 0px; margin-top: 70px; margin-left: 740px; "><span style="color: red;">Bigetron </span>Shop</h1><br>
     <h1>Selamat datang, <?php echo $_SESSION['username']; ?></h1>
 	<h2>Anda telah berhasil login sebagai Admin</h2>
     <form method="POST" action="">
@@ -100,7 +100,7 @@ $result_kategori = mysqli_query($conn, $sql_kategori);
   <a href="add_barang.php" style="margin-right: -25px; background-color: #e50000; color: #fff; border: none; padding: 10px 10px; border-radius: 10px; font-size: 16px; cursor: pointer; transition: 0.5s; text-decoration: none;">Tambah Barang</a>
 	<a href="logout.php" style="margin-right: -25px; margin-left: 30px; background-color: #e50000; color: #fff; border: none; padding: 10px 10px; border-radius: 10px; font-size: 16px; cursor: pointer; transition: 0.5s; text-decoration: none;">Logout</a>
     <footer>
-        <p>2023 Kelompok 6</p>
+      <p>2023 Kelompok 6</p>
     </footer>
 </body>
 </html>

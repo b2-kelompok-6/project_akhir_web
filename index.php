@@ -14,7 +14,7 @@
            <a href="about.php"><span>About</span></a>   
            <a href="profil.php"><span>Profile</span></a>
            <a href="sign-in.php"><span>Sign In</span></a>
-           <a href="shop.php"><img border="0" src="shopping-cart.png" width="30px" style="margin: 0px 5px -8px 840px; color:white;">Shop</a>
+           <a href="shop.php"><img border="0" src="shopping-cart.png" width="30px" style="margin: 0px 5px -8px 1100px; color:white;">Shop</a>
     </nav>
     <div class="container">
         <h1 style="font-size: 500%;"><span style="color: red">BIGE</span>TRON</h1>
@@ -36,11 +36,11 @@
     </div>
     <div class="text2">
         <a style="text-decoration: none;" href="shop.php" target="_SELF">
-        <button class="btn fourth">_SHOP_</button>
+        <button style="margin-left: 760px;" class="btn fourth">_SHOP_</button>
     </div>
     <div class="text2">
         <a style="text-decoration: none;" href="sign-in.php" target="_SELF">
-        <button class="btn fourth">SIGN IN</button>
+        <button style="margin-left: 763px;" class="btn fourth">SIGN IN</button>
     </div>
     </div>
     <footer>

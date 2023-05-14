@@ -14,7 +14,7 @@
            <a href="about.php"><span>About</span></a>
            <a href="profil.php"><span>Profile</span></a>
            <a href="sign-in.php"><span style="color: red;">Sign In</span></a>
-           <a href="shop.php"><img border="0" src="shopping-cart.png" width="30px" style="margin: 0px 5px -8px 840px; color:white;">Shop</a>
+           <a href="shop.php"><img border="0" src="shopping-cart.png" width="30px" style="margin: 0px 5px -8px 1100px; color:white;">Shop</a>
     </nav>
 <div class="container-box">
     <div class="login-box">
