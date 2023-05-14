@@ -32,9 +32,9 @@ $total_harga = $pemesanan['total_harga'];
            <a href="about.php"><span>About</span></a>
            <a href="profil.php"><span>Profile</span></a>
            <a href="beli.php"><span style="color: red;">Beli</span></a>
-           <a href="shop.php"><img border="0" src="shopping-cart.png" width="30px" style="margin: 0px 5px -8px 840px; color:white;">Shop</a>
+           <a href="shop.php"><img border="0" src="shopping-cart.png" width="30px" style="margin: 0px 5px -8px 1100px; color:white;">Shop</a>
     </nav>
-    <h1 style="margin-bottom: 0px; margin-top: 60px; margin-left: 675px; " ><span style="color: red">Pem</span>bayaran</h1>
+    <h1 style="margin-bottom: 0px; margin-top: 60px; margin-left: 750px; " ><span style="color: red">Pem</span>bayaran</h1>
     <br>
   <h4 style="text-align: center;">Total Harga: <?php echo $total_harga; ?></h4>
   <br>

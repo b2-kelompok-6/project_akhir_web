@@ -55,16 +55,16 @@ unset($_SESSION['id_pemesanan']);
            <a href="about.php"><span>About</span></a>   
            <a href="profil.php"><span>Profile</span></a>
            <a href="sign-in.php"><span>Sign In</span></a>
-           <a href="shop.php"><img border="0" src="shopping-cart.png" width="30px" style="margin: 0px 5px -8px 840px; color:white;">Shop</a>
+           <a href="shop.php"><img border="0" src="shopping-cart.png" width="30px" style="margin: 0px 5px -8px 1100px; color:white;">Shop</a>
     </nav>
-    <h1 style="margin-bottom: 0px; margin-top: 60px; margin-left: 610px; " ><span style="color: red">Proses </span>Pembayaran</h1><br>
+    <h1 style="margin-bottom: 0px; margin-top: 60px; margin-left: 690px; " ><span style="color: red">Proses </span>Pembayaran</h1><br>
     <br>
-    <img src="success.png" height="150px" width="150px" style="margin-left: 675px;">
+    <img src="success.png" height="150px" width="150px" style="margin-left: 760px;">
     <h2 style="text-align: center; margin-bottom: 30px;">Pembayaran berhasil dilakukan</h2>
-    <a href="user.php" style="margin-left: 650px; background-color: #e50000; color: #fff; border: none; padding: 15px 20px; border-radius: 10px; font-size: 16px; cursor: pointer; transition: 0.5s; text-decoration: none;">Kembali ke halaman user</a>
-    <!-- <footer>
+    <a href="user.php" style="margin-left: 725px; background-color: #e50000; color: #fff; border: none; padding: 15px 20px; border-radius: 10px; font-size: 16px; cursor: pointer; transition: 0.5s; text-decoration: none;">Kembali ke halaman user</a>
+    <footer>
         <p>2023 Kelompok 6</p>
-    </footer> -->
+    </footer>
 </body>
 </html>
 <?php

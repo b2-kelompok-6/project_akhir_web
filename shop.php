@@ -45,9 +45,9 @@ $result_kategori = mysqli_query($conn, $sql_kategori);
            <a href="about.php"><span>About</span></a>   
            <a href="profil.php"><span>Profile</span></a>
            <a href="sign-in.php"><span>Sign In</span></a>
-           <a href="shop.php"><img border="0" src="shopping-cart.png" width="30px" style="margin: 0px 5px -8px 840px; color:red;">Shop</a>
+           <a href="shop.php"><img border="0" src="shopping-cart.png" width="30px" style="margin: 0px 5px -8px 1100px; color:red;">Shop</a>
     </nav>
-    <h1 style="margin-bottom: 0px; margin-top: 70px; margin-left: 700px; " ><span style="color: red; margin-left: -40px;">Bigetron</span>Shop</h1><br>
+    <h1 style="margin-bottom: 0px; margin-top: 70px; margin-left: 790px; " ><span style="color: red; margin-left: -40px;">Bigetron</span>Shop</h1><br>
     <h3>Selamat datang, Bigetroopers</h3>
     <h4>Silahkan pilih barang yang ingin anda beli, selamat berbelanja!</h2>
 
