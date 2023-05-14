@@ -100,7 +100,7 @@ $result_kategori = mysqli_query($conn, $sql_kategori);
   <a href="add_barang.php" style="margin-right: -25px; background-color: #e50000; color: #fff; border: none; padding: 10px 10px; border-radius: 10px; font-size: 16px; cursor: pointer; transition: 0.5s; text-decoration: none;">Tambah Barang</a>
 	<a href="logout.php" style="margin-right: -25px; margin-left: 30px; background-color: #e50000; color: #fff; border: none; padding: 10px 10px; border-radius: 10px; font-size: 16px; cursor: pointer; transition: 0.5s; text-decoration: none;">Logout</a>
     <footer>
-        <p>2023 Kelompok 6</p>
+      <p>2023 Kelompok 6</p>
     </footer>
 </body>
 </html>
